@@ -5,5 +5,10 @@ body{
 }
 
 .customs{
-    background-color: red;
+    border-radius: 20px;
+    background-color: rgba(232, 216, 216, 0.725);
+}
+
+span:hover{
+    cursor: pointer;
 }
